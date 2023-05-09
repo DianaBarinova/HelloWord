@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloWord</string>
+    <string name="avatar_name">Cry Cat</string>
+    <string name="button_text">Подписаться</string>
+    <string name="button_text2">Отписаться</string>
+    <string name="hobby1">>Профессионально занимаюсь плаканием</string>
+    <string name="hobby2">>Слушаю только плаксивые песни</string>
+    <string name="hobby3">>Плачу, когда плачу</string>
+</resources>
